@@ -1,0 +1,6 @@
+node_modules
+.idea
+access.log
+.env
+*/package-lock.json
+npm-debug.log
